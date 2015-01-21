@@ -7,4 +7,4 @@ Updated version of Joshua Wright's cpscam utility located at http://www.willhack
 I added support for setting the ethernet interface and captive portal logoff URL on the command line.
 
 # Usage
-perl cpscam.pl <ethX> <ListenIP> <SubnetMask> <InactivityTimeout> <CaptiveLogoffURL> 
+perl cpscam.pl &lt;ethX&gt; &lt;ListenIP&gt; &lt;SubnetMask&gt; &lt;InactivityTimeout&gt; &lt;CaptiveLogoffURL&gt; 
